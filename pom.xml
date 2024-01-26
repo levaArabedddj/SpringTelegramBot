@@ -10,7 +10,10 @@
     <packaging>pom</packaging>
     <modules>
         <module>dispatcher</module>
+<<<<<<< HEAD
         <module>common-rabbitmq</module>
+=======
+>>>>>>> 32c844dd547e5d2090bc06344e54f7570069b9bd
     </modules>
 
     <properties>
@@ -40,7 +43,10 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
+<<<<<<< HEAD
             <version>1.18.26</version>
+=======
+>>>>>>> 32c844dd547e5d2090bc06344e54f7570069b9bd
             <scope>provided</scope>
         </dependency>
     </dependencies>

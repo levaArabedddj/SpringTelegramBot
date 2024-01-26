@@ -2,6 +2,7 @@
 2024-01-23 11:10:37 DEBUG TelegramBot:50 - /start
 2024-01-23 11:10:38 DEBUG TelegramBot:50 - /start
 2024-01-23 11:17:07 DEBUG TelegramBot:49 - /start
+<<<<<<< HEAD
 2024-01-25 12:39:59 DEBUG UpdateProducerImp:13 - рш
 2024-01-25 12:40:06 DEBUG UpdateProducerImp:13 - 
 2024-01-25 12:41:30 DEBUG UpdateProducerImp:13 - рп
@@ -10,3 +11,5 @@
 2024-01-25 19:45:16 DEBUG UpdateProducerImp:13 - пп
 2024-01-25 19:45:37 DEBUG UpdateProducerImp:13 - 
 2024-01-25 19:55:42 DEBUG UpdateProducerImp:12 - application.properties
+=======
+>>>>>>> 32c844dd547e5d2090bc06344e54f7570069b9bd
