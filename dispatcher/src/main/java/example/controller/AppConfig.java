@@ -12,6 +12,4 @@ public class AppConfig {
     public UpdateProducer updateProducer(RabbitTemplate rabbitTemplate) {
         return new UpdateProducerImp(rabbitTemplate);
     }
-
-
 }

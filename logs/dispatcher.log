@@ -13,3 +13,63 @@
 2024-01-25 19:55:42 DEBUG UpdateProducerImp:12 - application.properties
 =======
 >>>>>>> 32c844dd547e5d2090bc06344e54f7570069b9bd
+2024-01-26 22:54:46 DEBUG UpdateProducerImp:12 - 
+2024-01-26 22:54:50 DEBUG UpdateProducerImp:12 - fgg
+2024-01-26 22:54:50 DEBUG TelegramBot:55 - fgg
+2024-01-26 22:58:28 DEBUG UpdateProducerImp:12 - 
+2024-01-26 22:58:31 DEBUG UpdateProducerImp:12 - g
+2024-01-26 22:58:31 DEBUG TelegramBot:52 - g
+2024-01-26 22:58:57 DEBUG UpdateProducerImp:12 - 
+2024-01-26 22:59:11 DEBUG UpdateProducerImp:12 - g
+2024-01-26 22:59:11 DEBUG TelegramBot:52 - g
+2024-01-27 09:55:59 DEBUG UpdateProducerImp:12 - пп
+2024-01-27 10:45:12 DEBUG UpdateProducerImp:12 - gg
+2024-01-27 11:03:50 DEBUG UpdateProducerImp:19 - прив1
+2024-01-27 11:10:58 DEBUG UpdateProducerImp:19 - 
+2024-01-27 11:15:05 DEBUG UpdateProducerImp:19 - пап
+2024-01-27 11:23:52 DEBUG UpdateProducerImp:19 - Привет
+2024-01-27 11:27:24 DEBUG UpdateProducerImp:19 - /start
+2024-01-27 11:29:11 DEBUG UpdateProducerImp:19 - /start
+2024-01-27 11:29:37 ERROR UpdateController:37 - Unsupported message type is received: Update(updateId=661094573, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=656395952, type=private, title=null, firstName=Мишаня, lastName=Карагеоргий, userName=karageorgi1, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=656395952, firstName=Мишаня, isBot=false, lastName=Карагеоргий, userName=karageorgi1, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1706351377, oldChatMember=ChatMemberMember(status=member, user=User(id=6975475484, firstName=FirstWork, isBot=true, lastName=null, userName=FirstWork_mybot_telegram_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=6975475484, firstName=FirstWork, isBot=true, lastName=null, userName=FirstWork_mybot_telegram_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2024-01-27 11:29:39 ERROR UpdateController:37 - Unsupported message type is received: Update(updateId=661094574, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=656395952, type=private, title=null, firstName=Мишаня, lastName=Карагеоргий, userName=karageorgi1, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=656395952, firstName=Мишаня, isBot=false, lastName=Карагеоргий, userName=karageorgi1, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1706351379, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=6975475484, firstName=FirstWork, isBot=true, lastName=null, userName=FirstWork_mybot_telegram_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=6975475484, firstName=FirstWork, isBot=true, lastName=null, userName=FirstWork_mybot_telegram_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2024-01-27 11:29:39 DEBUG UpdateProducerImp:19 - /start
+2024-01-27 11:30:38 DEBUG UpdateProducerImp:19 - 
+2024-01-27 11:40:32 DEBUG UpdateProducerImp:19 - 
+2024-01-27 11:41:24 DEBUG UpdateProducerImp:19 - 
+2024-01-27 11:42:11 DEBUG UpdateProducerImp:19 - /start
+2024-01-27 11:42:16 DEBUG UpdateProducerImp:19 - 
+2024-01-27 11:42:28 DEBUG UpdateProducerImp:19 - 
+2024-01-27 11:43:01 DEBUG UpdateProducerImp:19 - 
+2024-01-27 11:43:17 DEBUG UpdateProducerImp:19 - Привет
+2024-01-27 11:43:21 ERROR UpdateController:37 - Unsupported message type is received: Update(updateId=661094585, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=175, messageThreadId=null, from=User(id=5880131853, firstName=Арабаджи, isBot=false, lastName=Леон, userName=Lwweeq, languageCode=uk, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1706352197, chat=Chat(id=5880131853, type=private, title=null, firstName=Арабаджи, lastName=Леон, userName=Lwweeq, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Приве, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1706352201, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null, isTopicMessage=null, forumTopicCreated=null, forumTopicClosed=null, forumTopicReopened=null, forumTopicEdited=null, generalForumTopicHidden=null, generalForumTopicUnhidden=null, writeAccessAllowed=null, hasMediaSpoiler=null, userShared=null, chatShared=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2024-01-28 19:12:45 ERROR UpdateController:37 - Unsupported message type is received: Update(updateId=661094586, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=656395952, type=private, title=null, firstName=Мишаня, lastName=Карагеоргий, userName=karageorgi1, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null, hasRestrictedVoiceAndVideoMessages=null, isForum=null, activeUsernames=null, emojiStatusCustomEmojiId=null, hasAggressiveAntiSpamEnabled=null, hasHiddenMembers=null), from=User(id=656395952, firstName=Мишаня, isBot=false, lastName=Карагеоргий, userName=karageorgi1, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1706395228, oldChatMember=ChatMemberMember(status=member, user=User(id=6975475484, firstName=FirstWork, isBot=true, lastName=null, userName=FirstWork_mybot_telegram_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=6975475484, firstName=FirstWork, isBot=true, lastName=null, userName=FirstWork_mybot_telegram_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null, viaChatFolderInviteLink=null), chatMember=null, chatJoinRequest=null)
+2024-01-28 19:14:29 DEBUG UpdateProducerImp:19 - hello from chat
+2024-01-28 19:15:31 DEBUG UpdateProducerImp:19 - hello from chat
+2024-01-28 19:17:40 DEBUG UpdateProducerImp:19 - g
+2024-01-28 19:20:29 DEBUG UpdateProducerImp:19 - 
+2024-01-28 19:20:44 DEBUG UpdateProducerImp:19 - привет
+2024-01-28 19:24:02 DEBUG UpdateProducerImp:19 - 
+2024-01-28 19:33:16 DEBUG UpdateProducerImp:19 - hello
+2024-01-28 19:41:08 DEBUG UpdateProducerImp:19 - 
+2024-01-28 19:41:08 DEBUG UpdateProducerImp:19 - hello
+2024-01-28 19:41:18 DEBUG UpdateProducerImp:19 - ру
+2024-01-28 19:43:20 DEBUG UpdateProducerImp:19 - ру
+2024-01-28 19:49:33 DEBUG UpdateProducerImp:19 - привет
+2024-01-28 19:51:09 DEBUG UpdateProducerImp:19 - hello from chat
+2024-01-28 19:52:02 DEBUG UpdateProducerImp:19 - hello
+2024-01-28 19:52:51 DEBUG UpdateProducerImp:19 - h
+2024-01-28 19:58:39 DEBUG UpdateProducerImp:19 - пспл
+2024-01-28 19:59:01 DEBUG UpdateProducerImp:19 - о
+2024-01-28 19:59:39 DEBUG UpdateProducerImp:19 - ангагн
+2024-01-28 20:46:34 DEBUG UpdateProducerImp:19 - прпр
+2024-01-28 20:48:06 DEBUG UpdateProducerImp:19 - 
+2024-01-28 20:48:10 DEBUG UpdateProducerImp:19 - привет
+2024-01-28 20:51:16 DEBUG UpdateProducerImp:19 - привет
+2024-01-28 21:02:32 DEBUG UpdateProducerImp:19 - ghivet
+2024-01-28 21:16:21 DEBUG UpdateProducerImp:19 - ghbdtn
+2024-01-28 21:18:18 DEBUG UpdateProducerImp:19 - привет
+2024-01-28 21:19:14 DEBUG UpdateProducerImp:19 - 
+2024-01-28 21:19:20 DEBUG UpdateProducerImp:19 - привет
+2024-01-28 21:19:38 DEBUG UpdateProducerImp:19 - 
+2024-01-28 21:19:41 DEBUG UpdateProducerImp:19 - привет
+2024-01-28 22:12:51 DEBUG UpdateProducerImp:19 - ghb
