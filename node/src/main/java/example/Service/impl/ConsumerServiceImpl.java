@@ -1,6 +1,7 @@
 package example.Service.impl;
 
 import example.Service.ConsumerService;
+import example.Service.MainService;
 import example.Service.ProducerService;
 import lombok.extern.log4j.Log4j;
 import org.jvnet.hk2.annotations.Service;
@@ -13,22 +14,19 @@ import static model.RabbirQueue.*;
 @Service
 @Log4j
 public class ConsumerServiceImpl implements ConsumerService {
-    private final ProducerService producerService;
+    private final MainService mainService;
 
-    public ConsumerServiceImpl(ProducerService producerService) {
-        this.producerService = producerService;
+    public ConsumerServiceImpl(MainService mainService) {
+        this.mainService = mainService;
     }
+
 
     @Override
     @RabbitListener(queues = TEXT_MESSAGE_UPDATE)
     public void consumeTextMessageUpdates(Update update) {
         log.debug("NODE: Text message is received");
+       mainService.processTectMessage(update);
 
-        var message = update.getMessage();
-        var sendMessage = new SendMessage();
-        sendMessage.setChatId(message.getChatId().toString());
-        sendMessage.setText("Hello from NODE");
-        producerService.producerAnswer(sendMessage);
     }
 
     @Override
